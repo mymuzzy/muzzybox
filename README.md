@@ -13,8 +13,10 @@ Import into VirtualBox or VirtualMachine and start playing.
 # Configuration
 
 ### $ 1. Download the zip file from the Google Drive URL.
+
 ![1](https://user-images.githubusercontent.com/61471222/75571333-f6ba3900-5a7e-11ea-9209-295b96ab4416.png)
 -> Now, extract the zip file as shown below.
+
 ![1](https://user-images.githubusercontent.com/61471222/75571703-b7d8b300-5a7f-11ea-8793-21fae880b7e9.png)
 
 
