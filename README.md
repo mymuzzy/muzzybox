@@ -1,4 +1,4 @@
-# muzzybox
+# MuzzyBox
 
 Hey, I am muzzy !!!
 
@@ -6,6 +6,8 @@ I have created this amazing CTF for pentester. However, This is not like other C
 
 Google Drive URL : https://drive.google.com/file/d/1yFKVD_bDvzMp66ewOmyihXZ-_RZ8yGOs/view?usp=sharing
 
+## We are also on VulnHub 
+https://www.vulnhub.com/entry/muzzybox-1,434/
 
 ### Direction To Use
 Import into VirtualBox or VirtualMachine and start playing.
